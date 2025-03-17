@@ -1,0 +1,14 @@
+C:\Users\lab53.FATEC\Downloads\var\bin\Debug\net9.0\var.exe
+C:\Users\lab53.FATEC\Downloads\var\bin\Debug\net9.0\var.deps.json
+C:\Users\lab53.FATEC\Downloads\var\bin\Debug\net9.0\var.runtimeconfig.json
+C:\Users\lab53.FATEC\Downloads\var\bin\Debug\net9.0\var.dll
+C:\Users\lab53.FATEC\Downloads\var\bin\Debug\net9.0\var.pdb
+C:\Users\lab53.FATEC\Downloads\var\obj\Debug\net9.0\var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab53.FATEC\Downloads\var\obj\Debug\net9.0\var.AssemblyInfoInputs.cache
+C:\Users\lab53.FATEC\Downloads\var\obj\Debug\net9.0\var.AssemblyInfo.cs
+C:\Users\lab53.FATEC\Downloads\var\obj\Debug\net9.0\var.csproj.CoreCompileInputs.cache
+C:\Users\lab53.FATEC\Downloads\var\obj\Debug\net9.0\var.dll
+C:\Users\lab53.FATEC\Downloads\var\obj\Debug\net9.0\refint\var.dll
+C:\Users\lab53.FATEC\Downloads\var\obj\Debug\net9.0\var.pdb
+C:\Users\lab53.FATEC\Downloads\var\obj\Debug\net9.0\var.genruntimeconfig.cache
+C:\Users\lab53.FATEC\Downloads\var\obj\Debug\net9.0\ref\var.dll
